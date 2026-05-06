@@ -1,0 +1,4 @@
+#ifndef _FAKE_LINUX_DEVICE_H
+#define _FAKE_LINUX_DEVICE_H
+
+#endif /* _FAKE_LINUX_DEVICE_H */

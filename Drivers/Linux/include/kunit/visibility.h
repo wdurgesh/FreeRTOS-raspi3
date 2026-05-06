@@ -1,0 +1,5 @@
+#ifndef _KUNIT_VISIBILITY_H
+#define _KUNIT_VISIBILITY_H
+
+#endif /* _KUNIT_VISIBILITY_H */
+

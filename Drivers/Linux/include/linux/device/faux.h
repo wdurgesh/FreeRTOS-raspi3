@@ -1,0 +1,5 @@
+#ifndef _FAKE_LINUX_DEVICES_FAUX_H
+#define _FAKE_LINUX_DEVICES_FAUX_H
+
+
+#endif

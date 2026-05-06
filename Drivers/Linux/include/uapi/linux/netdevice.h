@@ -1,0 +1,4 @@
+#ifndef _UAPI_LINUX_DEVICE_H
+#define _UAPI_LINUX_DEVICE_H
+
+#endif /* _UAPI_LINUX_DEVICE_H */

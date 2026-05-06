@@ -1,0 +1,4 @@
+#ifndef _FAKE_KEYS_ASYMMETRIC_TYPE_H
+#define _FAKE_KEYS_ASYMMETRIC_TYPE_H
+
+#endif

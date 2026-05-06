@@ -1,0 +1,5 @@
+#ifndef _FAKE_LINUX_FIRMWARE_H
+#define _FAKE_LINUX_FIRMWARE_H
+
+
+#endif
